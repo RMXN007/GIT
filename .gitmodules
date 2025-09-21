@@ -1,0 +1,3 @@
+[submodule "LocalRepo"]
+	path = LocalRepo
+	url = https://github.com/RMXN007/localrepo.git
